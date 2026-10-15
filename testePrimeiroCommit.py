@@ -4,3 +4,4 @@ print('hello world')
 
 teste = 'testando uma alteraçao fora da minha maquina e sincronizando com a maquina de casa'
 print(teste)
+#consegui fazer o commit pelo codeSpace e realizar o Pull na maquina!
